@@ -94,10 +94,9 @@ El sistema de base de datos esta relacionado a la gestión de pedidos de compra 
 \label{subsec:Tipos de usuarios existentes/necesarios}
 
 \begin{itemize}
-	\item Cliente:
-	\item Vendedor:
-	\item Gerente:
-	\item Fabricante:
+	\item Cliente: Realiza los pedidos de los productos y los compra, o en algún caso especial puede exigir un reembolso.
+	\item Gerente: Administra a los empleados y los almacenes, puede realizar consultas sobre los pedidos, productos, empleados, etc.
+	\item Fabricante: Provee los productos a la empresa.
 \end{itemize}
 
 \subsection{Tipos de consulta, actualizaciones }
@@ -288,7 +287,7 @@ Para estimar el tamaño de la base de datos, consideramos las tablas del modelo 
 			\hline
 		\end{tabular}
 	\end{center}
-	\caption{Tamaño de las tablas fijas}
+	\caption{Tamaño anual estimado de las tablas fijas}
 \end{table}
 \pagebreak
 
@@ -635,7 +634,7 @@ En anexo
 \begin{itemize}
   \item Trabaja: La relación se da entre cliente y recogedor asignado. El cliente tiene una multiplicidad de 0:n ya que puede tener varios asignados para recoger. El Recogedor asignado tiene una multiplicidad de 1:1, ya que solo puede trabajar para un cliente(Empresa).
 
-\item Realiza\_Pedido: Esta relación tiene como atributos F\_crecion, F\_Limite. Y la relación se da entre las entidades Cliente y Pedido. La multiplicidad de Cliente(Empresa) es de 0:n, ya que puede realizar  de 0 a n pedidos. La multiplicidad de Pedido es de exactamente 1:1, ya que cada pedido solo puede ser realizado por un cliente.
+\item Realiza\_Pedido: Esta relación tiene como atributos F\_creación, F\_Limite. Y la relación se da entre las entidades Cliente y Pedido. La multiplicidad de Cliente(Empresa) es de 0:n, ya que puede realizar  de 0 a n pedidos. La multiplicidad de Pedido es de exactamente 1:1, ya que cada pedido solo puede ser realizado por un cliente.
 
 \item Asignado: La relación entre las entidades de Pedido y Recogedor asignado. El pedido tiene una multiplicidad de 1:1, ya que cada pedido solo puede tener un recogedor asignado. La multiplicidad de recogedor asignado es de 0:n, ya puede ser asignado a varios pedidos.
  
@@ -732,7 +731,7 @@ teléfono & varchar(12) & & & Teléfono del cliente \\
 		\hline
 		id              & bigint           & x           & x           & Identificador único del pago asociado a un pedido          \\
 		\hline
-		Pedido.id       & bigint           &             & x           & Identificador único del pedido asociado al pago            \\
+		Pedido.id       & bigint           & x            & x           & Identificador único del pedido asociado al pago            \\
 		\hline
 		monto           & float            &             &             & Monto del pago realizado                                   \\
 		\hline
@@ -750,9 +749,9 @@ teléfono & varchar(12) & & & Teléfono del cliente \\
 		\hline
 		id              & bigint           & x           &             & Identificador único del reembolso                                     \\
 		\hline
-		Pago.id         & bigint           &             & x           & Identificador único del pago asociado al reembolso                    \\
+		Pago.id         & bigint           & x            & x           & Identificador único del pago asociado al reembolso                    \\
 		\hline
-		Pedido.id       & bigint           &             & x           & Identificador único del pedido asociado al pago asociado al reembolso \\
+		Pedido.id       & bigint           & x            & x           & Identificador único del pedido asociado al pago asociado al reembolso \\
 		\hline
 	\end{tabular}
 	\caption{Tabla Reembolso}

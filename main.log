@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  2 JUN 2023 20:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  2 JUN 2023 20:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -443,13 +443,13 @@ Cap\'{\i }tulo 2.
 [7
 
 ] [8]
-Overfull \hbox (13.77913pt too wide) in paragraph at lines 472--474
+Overfull \hbox (13.77913pt too wide) in paragraph at lines 471--473
 []\OT1/cmr/m/n/10 Especificaciones: Es una en-ti-dad d^^Sebil de al-mac^^Sen, el cual po-see una lla-ve par-cial: al-mac^^Sen[]destino. 
  []
 
 [9] [10]
 Cap\'{\i }tulo 3.
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 569.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 568.
 (./mR.txt
 
 ./mR.txt:51: LaTeX Error: Invalid UTF-8 byte sequence (Ã\expandafter).
@@ -489,52 +489,52 @@ Overfull \hbox (3.03638pt too wide) in paragraph at lines 76--78
  []
 
 ) [12] [13]
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 683--683
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 682--682
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 684--684
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 683--683
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 689--690
+Underfull \hbox (badness 4266) in paragraph at lines 688--689
 []\OT1/cmr/m/n/10 Correo electr^^Soni-co
  []
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 691--692
+Underfull \hbox (badness 7925) in paragraph at lines 690--691
 []\OT1/cmr/m/n/10 Raz^^Son so-cial del
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 693--694
+Underfull \hbox (badness 10000) in paragraph at lines 692--693
 []\OT1/cmr/m/n/10 Contrase~na del
  []
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 708--708
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 707--707
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 709--709
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 708--708
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 712--713
+Underfull \hbox (badness 1057) in paragraph at lines 711--712
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 716--717
+Underfull \hbox (badness 1496) in paragraph at lines 715--716
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 718--719
+Underfull \hbox (badness 1509) in paragraph at lines 717--718
 []\OT1/cmr/m/n/10 Fecha de crea-ci^^Son
  []
 
@@ -542,37 +542,37 @@ Underfull \hbox (badness 1509) in paragraph at lines 718--719
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 731--731
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 730--730
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 731--731
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 730--730
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 733--734
+Underfull \hbox (badness 1057) in paragraph at lines 732--733
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 735--736
+Underfull \hbox (badness 1057) in paragraph at lines 734--735
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Overfull \hbox (7.37656pt too wide) in paragraph at lines 739--739
+Overfull \hbox (7.37656pt too wide) in paragraph at lines 738--738
 []\OT1/cmr/m/n/10 varchar(32)| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 739--740
+Underfull \hbox (badness 10000) in paragraph at lines 738--739
 []\OT1/cmr/m/n/10 M^^Seto-do de pa-
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 739--740
+Underfull \hbox (badness 4981) in paragraph at lines 738--739
 \OT1/cmr/m/n/10 go uti-li-za-do (por
  []
 
@@ -580,27 +580,27 @@ Underfull \hbox (badness 4981) in paragraph at lines 739--740
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 749--749
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 748--748
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 749--749
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 748--748
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 751--752
+Underfull \hbox (badness 1057) in paragraph at lines 750--751
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 753--754
+Underfull \hbox (badness 1057) in paragraph at lines 752--753
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 755--756
+Underfull \hbox (badness 1057) in paragraph at lines 754--755
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
@@ -608,22 +608,22 @@ Underfull \hbox (badness 1057) in paragraph at lines 755--756
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 765--765
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 764--764
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 765--765
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 764--764
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 769--770
+Underfull \hbox (badness 1057) in paragraph at lines 768--769
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 771--772
+Underfull \hbox (badness 3803) in paragraph at lines 770--771
 []\OT1/cmr/m/n/10 Fecha en que se
  []
 
@@ -631,22 +631,22 @@ Underfull \hbox (badness 3803) in paragraph at lines 771--772
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 781--781
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 780--780
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 781--781
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 780--780
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 783--784
+Underfull \hbox (badness 1057) in paragraph at lines 782--783
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 789--790
+Underfull \hbox (badness 1281) in paragraph at lines 788--789
 []\OT1/cmr/m/n/10 Nombre del fa-bri-
  []
 
@@ -654,12 +654,12 @@ Underfull \hbox (badness 1281) in paragraph at lines 789--790
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 799--799
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 798--798
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 801--802
+Underfull \hbox (badness 1057) in paragraph at lines 800--801
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
@@ -667,22 +667,22 @@ Underfull \hbox (badness 1057) in paragraph at lines 801--802
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 819--819
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 818--818
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 820--820
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 819--819
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 823--824
+Underfull \hbox (badness 1281) in paragraph at lines 822--823
 []\OT1/cmr/m/n/10 Nombre del fa-bri-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 827--828
+Underfull \hbox (badness 1292) in paragraph at lines 826--827
 \OT1/cmr/m/n/10 electr^^Soni-co del fa-
  []
 
@@ -690,22 +690,22 @@ Underfull \hbox (badness 1292) in paragraph at lines 827--828
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 837--837
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 836--836
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 837--837
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 836--836
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 839--840
+Underfull \hbox (badness 1057) in paragraph at lines 838--839
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 843--844
+Underfull \hbox (badness 10000) in paragraph at lines 842--843
 []\OT1/cmr/m/n/10 Descripci^^Son de-ta-
  []
 
@@ -713,17 +713,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 843--844
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 853--853
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 852--852
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 853--853
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 852--852
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 7081) in paragraph at lines 857--858
+Underfull \hbox (badness 7081) in paragraph at lines 856--857
 []\OT1/cmr/m/n/10 Direcci^^Son del al-
  []
 
@@ -731,17 +731,17 @@ Underfull \hbox (badness 7081) in paragraph at lines 857--858
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 867--867
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 866--866
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 867--867
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 866--866
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 869--870
+Underfull \hbox (badness 1057) in paragraph at lines 868--869
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
@@ -749,27 +749,27 @@ Underfull \hbox (badness 1057) in paragraph at lines 869--870
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 883--883
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 882--882
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 884--884
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 883--883
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 887--888
+Underfull \hbox (badness 1057) in paragraph at lines 886--887
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 891--892
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
 []\OT1/cmr/m/n/10 Identificador del
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 893--894
+Underfull \hbox (badness 3803) in paragraph at lines 892--893
 []\OT1/cmr/m/n/10 Fecha en que se
  []
 
@@ -777,17 +777,17 @@ Underfull \hbox (badness 3803) in paragraph at lines 893--894
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 905--905
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 904--904
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 906--906
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 905--905
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 909--910
+Underfull \hbox (badness 2495) in paragraph at lines 908--909
 \OT1/cmr/m/n/10 mac^^Sen de des-tino
  []
 
@@ -795,17 +795,17 @@ Underfull \hbox (badness 2495) in paragraph at lines 909--910
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 923--923
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 922--922
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 924--924
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 923--923
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 927--928
+Underfull \hbox (badness 1496) in paragraph at lines 926--927
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
@@ -813,17 +813,17 @@ Underfull \hbox (badness 1496) in paragraph at lines 927--928
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 942--942
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 941--941
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 942--942
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 941--941
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 944--945
+Underfull \hbox (badness 1496) in paragraph at lines 943--944
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
@@ -831,27 +831,27 @@ Underfull \hbox (badness 1496) in paragraph at lines 944--945
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 957--957
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 956--956
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 957--957
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 956--956
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 959--960
+Underfull \hbox (badness 1496) in paragraph at lines 958--959
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 963--964
+Underfull \hbox (badness 4266) in paragraph at lines 962--963
 []\OT1/cmr/m/n/10 Correo electr^^Soni-co
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 963--964
+Underfull \hbox (badness 10000) in paragraph at lines 962--963
 \OT1/cmr/m/n/10 ins-ti-tu-cio-nal del
  []
 
@@ -859,17 +859,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 963--964
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 973--973
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 972--972
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 973--973
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 972--972
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 975--976
+Underfull \hbox (badness 1496) in paragraph at lines 974--975
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
@@ -877,27 +877,27 @@ Underfull \hbox (badness 1496) in paragraph at lines 975--976
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 985--985
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 984--984
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 985--985
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 984--984
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 987--988
+Underfull \hbox (badness 1496) in paragraph at lines 986--987
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 989--990
+Underfull \hbox (badness 10000) in paragraph at lines 988--989
 []\OT1/cmr/m/n/10 N^^Sume-ro del al-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 989--990
+Underfull \hbox (badness 10000) in paragraph at lines 988--989
 \OT1/cmr/m/n/10 mac^^Sen don-de
  []
 
@@ -926,32 +926,32 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 1095--1095
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 1094--1094
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 1096--1096
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 1095--1095
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1099--1100
+Underfull \hbox (badness 1057) in paragraph at lines 1098--1099
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1101--1102
+Underfull \hbox (badness 1057) in paragraph at lines 1100--1101
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 1103--1104
+Underfull \hbox (badness 3219) in paragraph at lines 1102--1103
 []\OT1/cmr/m/n/10 Cantidad de pro-
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 1103--1104
+Underfull \hbox (badness 5161) in paragraph at lines 1102--1103
 \OT1/cmr/m/n/10 duc-tos en el al-
  []
 
@@ -959,32 +959,32 @@ Underfull \hbox (badness 5161) in paragraph at lines 1103--1104
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 1115--1115
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 1114--1114
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 1116--1116
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 1115--1115
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Overfull \hbox (7.37656pt too wide) in paragraph at lines 1119--1119
+Overfull \hbox (7.37656pt too wide) in paragraph at lines 1118--1118
 []\OT1/cmr/m/n/10 varchar(40)| 
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 1119--1120
+Underfull \hbox (badness 1281) in paragraph at lines 1118--1119
 []\OT1/cmr/m/n/10 Nombre del fa-bri-
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 1121--1122
+Underfull \hbox (badness 1496) in paragraph at lines 1120--1121
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 1123--1124
+Underfull \hbox (badness 3803) in paragraph at lines 1122--1123
 []\OT1/cmr/m/n/10 Fecha en que se
  []
 
@@ -992,42 +992,42 @@ Underfull \hbox (badness 3803) in paragraph at lines 1123--1124
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 1135--1135
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 1134--1134
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 1136--1136
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 1135--1135
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1139--1140
+Underfull \hbox (badness 1057) in paragraph at lines 1138--1139
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1141--1142
+Underfull \hbox (badness 1057) in paragraph at lines 1140--1141
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 1141--1142
+Underfull \hbox (badness 4954) in paragraph at lines 1140--1141
 \OT1/cmr/m/n/10 per-te-ne-ce el pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
 []\OT1/cmr/m/n/10 N^^Sume-ro iden-ti-fi-
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1145--1146
+Underfull \hbox (badness 1057) in paragraph at lines 1144--1145
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 1147--1148
+Underfull \hbox (badness 3219) in paragraph at lines 1146--1147
 []\OT1/cmr/m/n/10 Cantidad de pro-
  []
 
@@ -1035,27 +1035,27 @@ Underfull \hbox (badness 3219) in paragraph at lines 1147--1148
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 1160--1160
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 1159--1159
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 1161--1161
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 1160--1160
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 1164--1165
+Underfull \hbox (badness 1496) in paragraph at lines 1163--1164
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 1164--1165
+Underfull \hbox (badness 3635) in paragraph at lines 1163--1164
 \OT1/cmr/m/n/10 ins-pec-tor en-car-ga-
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 1168--1169
+Underfull \hbox (badness 3803) in paragraph at lines 1167--1168
 []\OT1/cmr/m/n/10 Fecha en que se
  []
 
@@ -1063,42 +1063,42 @@ Underfull \hbox (badness 3803) in paragraph at lines 1168--1169
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 1180--1180
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 1179--1179
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 1181--1181
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 1180--1180
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1184--1185
+Underfull \hbox (badness 1057) in paragraph at lines 1183--1184
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 1186--1187
+Underfull \hbox (badness 4291) in paragraph at lines 1185--1186
 \OT1/cmr/m/n/10 de ori-gen del re
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 1188--1189
+Underfull \hbox (badness 1057) in paragraph at lines 1187--1188
 []\OT1/cmr/m/n/10 Identificador ^^Suni-co
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 1190--1191
+Underfull \hbox (badness 1496) in paragraph at lines 1189--1190
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 1190--1191
+Underfull \hbox (badness 6910) in paragraph at lines 1189--1190
 \OT1/cmr/m/n/10 nal de Iden-ti-dad
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1191
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1190
 \OT1/cmr/m/n/10 del trans-por-tis-ta
  []
 
@@ -1106,27 +1106,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 1190--1191
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.64854pt too wide) in paragraph at lines 1202--1202
+Overfull \hbox (2.64854pt too wide) in paragraph at lines 1201--1201
 []\OT1/cmr/bx/n/10 PK| 
  []
 
 
-Overfull \hbox (2.02354pt too wide) in paragraph at lines 1203--1203
+Overfull \hbox (2.02354pt too wide) in paragraph at lines 1202--1202
 []\OT1/cmr/bx/n/10 FK| 
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 1210--1211
+Underfull \hbox (badness 1496) in paragraph at lines 1209--1210
 []\OT1/cmr/m/n/10 Documento Na-cio-
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 1210--1211
+Underfull \hbox (badness 6910) in paragraph at lines 1209--1210
 \OT1/cmr/m/n/10 nal de Iden-ti-dad
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1210--1211
+Underfull \hbox (badness 10000) in paragraph at lines 1209--1210
 \OT1/cmr/m/n/10 del trans-por-tis-ta
  []
 
@@ -1142,10 +1142,10 @@ Cap\'{\i }tulo 5.
 <./images/DER.png, id=408, 4035.075pt x 2868.7175pt>
 File: ./images/DER.png Graphic file (type png)
 <use ./images/DER.png>
-Package pdftex.def Info: ./images/DER.png  used on input line 1226.
+Package pdftex.def Info: ./images/DER.png  used on input line 1225.
 (pdftex.def)             Requested size: 452.96826pt x 321.99454pt.
 
-Overfull \hbox (35.56593pt too wide) in paragraph at lines 1226--1227
+Overfull \hbox (35.56593pt too wide) in paragraph at lines 1225--1226
 [][] 
  []
 
@@ -1167,7 +1167,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  68i,11n,77p,586b,1762s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main.pdf (23 pages, 636736 bytes).
+Output written on main.pdf (23 pages, 636929 bytes).
 PDF statistics:
  486 PDF objects out of 1000 (max. 8388607)
  442 compressed objects within 5 object streams
