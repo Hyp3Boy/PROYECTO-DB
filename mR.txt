@@ -1,0 +1,82 @@
+Cliente(__RUC__:bigInt,email:varchar(100),
+razon_social:varchar(50),contrasenha:varchar(32),telefono:varchar(12))
+
+Pedido(__id__ : bigInt, Cliente.Ruc : bigInt,
+Recogedor_Asignado.DNI : bigInt, f_creacion : date,f_limite: date)
+
+Pago(__id__ : bigInt, __Pedido.id__ : bigInt, 
+monto : float, metodo : varchar(32))
+
+Reembolso(__id__ : bigInt, 
+__Pago.id__ : bigInt, __Pedido.id__ : bigInt)
+
+Despacho(__nro_Despacho__: bigInt, 
+__Pedido.id__ : bigInt, fecha : date)
+
+Producto(__id__ : bigInt, nombre : varchar(256),
+precio : float,Fabricante.nombre : varchar(40))
+
+Descuento(__id__ : bigInt, F_inicio : date, 
+F_fin : date, porcentaje : float)
+
+Fabricante(__nombre__ : varchar(40), pais : varchar(50),
+dominio_correo : varchar(50))
+
+Categoria(__id__ : int, nombre : varchar(25), 
+descripcion : varchar(255))
+
+almacen(__Nro__ : int,
+direccion : varchar(150))
+
+Puerto(__id__ : int , 
+direccion : varchar(150))
+
+restock(__id__ : bigInt, __Almacen.id__ : bigInt,
+__Puerto.id__ : bigInt , fecha : date)
+
+Traslado_Interno(__Almacen_destino__ : int ,
+__Almacen.nro__ : int)
+
+Persona(__DNI__ : bigInt, __telefono__ : varchar(12),
+nombre : varchar(50), apellido : varchar(50))
+
+Recogedor_Asignado(__Persona.dni__ : bigInt, 
+Cliente.RUC : bigInt)
+
+Empleado(__DNI__ : bigInt, __telefono__ : varchar(12),
+correo_institucional : varchar(255))
+
+Atencion_Cliente(__Empleado.dni__ : bigInt)
+
+Almacenero(__Empleado.dni__ : bigInt, almacén.nro : int)
+
+Inspectores(__Empleado.dni__ : bigInt)
+
+Transportista(__Empleado.dni__ : bigInt)
+
+Directivo(__Empleado.dni__)
+
+contiene_P(__Producto.Id__ : bigInt, __Pedido.id__ : bigInt)
+
+aplica(__Producto.id__ : bigInt, Descuento.id : bigInt)
+
+tiene(__Categoria.id__ int,__Producto.id__ : bigInt)
+
+contiene_T(__Producto.id__ : bigInt, 
+__Translado_Interno.Almacen_destino__ : int, __Almacen.id__ : int)
+
+stock(__Producto.id__ : bigInt, __Almacen.id__ : int, cantidad : int)
+
+g_pedido(__Fabricante.Nombre__ : varchar(40), 
+__Gerente.DNI__ : bigInt, fecha : date)
+
+trae(__Producto.id__ : bigInt, __Restock.id__ : bigInt,
+__Almacen.Nro__ : int, __Puerto.id__ : int, Cantidad : int)
+
+monitoreo(__Inspectores.DNI__ : bigInt, __Almacen.Nro__ : int, fecha : date)
+
+encargado_T(__Restock.id__ : bigInt,__Almacen.Nro__ : int,
+__Puerto.id__ : int, __Transportista.DNI__ : bigInt)
+
+encargado_a(__Translado_Interno.Almacen_destino__ : int, 
+__Almacen.Nro__ : int, __Transportista.DNI__ : bigInt)
